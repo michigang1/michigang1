@@ -1,6 +1,6 @@
 <code>🎓 Student: KPI</code>
 <code>🎪 Group: IM-13</code>
-<code>👷 Speciality: Software engineer</code>
+<code>👷 Speciality: Mobile engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 Current [project](PROJECT.md)</code><br>
 <code>🧑‍💻 Languages: Java, Kotlin, C</code>
