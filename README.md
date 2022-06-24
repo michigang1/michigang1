@@ -1,9 +1,9 @@
 <code>🎓 Student: KPI</code>
 <code>🎪 Group: IM-13</code>
-<code>👷 Speciality: Software engineer</code>
+<code>👷 Speciality: Mobile software engineer</code>
 <code>💡 [Skills](https://github.com/michigang1/skills-kotlin-version/tree/mine/SKILLS.md)</code>
 <code>🧻 Current [project](https://github.com/michigang1/michat)</code><br>
-<code>🧑‍💻 Languages: Java, Kotlin, C</code>
+<code>🧑‍💻 Languages: Kotlin, Java, C</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 <code>💬 telegram: [@poor_boy](https://telegram.me/poor_boy)</code>
 <code>📫 [chirozidi.m@gmail.com](mailto:chirozidi.m@gmail.com)</code>
