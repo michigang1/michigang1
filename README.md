@@ -1,7 +1,7 @@
 <code>🎓 Student: KPI</code>
 <code>🎪 Group: IM-13</code>
 <code>👷 Speciality: Software engineer</code>
-<code>💡 [Skills](https://github.com/michigang1/skills-kotlin-version/tree/mine)</code>
+<code>💡 [Skills](https://github.com/michigang1/skills-kotlin-version/tree/mine/SKILLS.md)</code>
 <code>🧻 Current [project](PROJECT.md)</code><br>
 <code>🧑‍💻 Languages: Java, Kotlin, C</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
