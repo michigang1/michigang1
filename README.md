@@ -2,7 +2,7 @@
 <code>🎪 Group: IM-13</code>
 <code>👷 Speciality: Mobile software engineer</code>
 <code>💡 [Skills](https://github.com/michigang1/skills-kotlin-version/tree/mine/SKILLS.md)</code>
-<code>🧻 Current [project](https://github.com/michigang1/michat)</code><br>
+<code>🧻 Current [project](https://github.com/michigang1/)</code><br>
 <code>🧑‍💻 Languages: Kotlin, Java, C</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 <code>💬 telegram: [@poor_boy](https://telegram.me/poor_boy)</code>
